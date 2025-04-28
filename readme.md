@@ -17,5 +17,5 @@
 
 # 实现效果：
 
-![这是图片](assets\images\result.png "Magic Gardens")
+![这是图片](assets/images/result.png "Magic Gardens")
 
