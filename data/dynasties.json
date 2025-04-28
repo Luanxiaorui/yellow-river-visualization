@@ -1,0 +1,98 @@
+[
+    {
+        "name": "夏",
+        "start": -2070,
+        "end": -1600,
+        "color": "#90ee90"
+    },
+    {
+        "name": "商",
+        "start": -1600,
+        "end": -1046,
+        "color": "#000000"
+    },
+    {
+        "name": "周",
+        "start": -1046,
+        "end": -256,
+        "color": "#0000ff"
+    },
+    {
+        "name": "秦",
+        "start": -221,
+        "end": -207,
+        "color": "#ffffff"
+    },
+    {
+        "name": "汉",
+        "start": -202,
+        "end": 220,
+        "color": "#006400"
+    },
+    {
+        "name": "三国",
+        "start": 220,
+        "end": 280,
+        "color": "#808080"
+    },
+    {
+        "name": "晋",
+        "start": 265,
+        "end": 420,
+        "color": "#8080ff"
+    },
+    {
+        "name": "十六国",
+        "start": 304,
+        "end": 439,
+        "color": "#505580"
+    },
+    {
+        "name": "南北朝",
+        "start": 386,
+        "end": 589,
+        "color": "#808080"
+    },
+    {
+        "name": "隋",
+        "start": 581,
+        "end": 618,
+        "color": "#ffa500"
+    },
+    {
+        "name": "唐",
+        "start": 618,
+        "end": 907,
+        "color": "#ff0000"
+    },
+    {
+        "name": "五代十国",
+        "start": 907,
+        "end": 979,
+        "color": "#6F0000"
+    },
+    {
+        "name": "宋",
+        "start": 960,
+        "end": 1276,
+        "color": "#ffc0cb"
+    },
+    {
+        "name": "元",
+        "start": 1271,
+        "end": 1368,
+        "color": "#800080"
+    },
+    {
+        "name": "明",
+        "start": 1368,
+        "end": 1644,
+        "color": "#ffff00"
+    },
+    {
+        "name": "清",
+        "start": 1644,
+        "end": 1911,
+        "color": "#ffdab9"
+    }
+]

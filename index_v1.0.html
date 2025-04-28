@@ -1,0 +1,274 @@
+<!-- <!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中华上下五千年河流图 - D3.js 框架</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+
+    <h1>中华上下五千年河流图 (D3.js 框架)</h1>
+    <div id="chart">
+    </div>
+    <div id="legend"></div>
+
+    <div class="tooltip"></div>
+
+    <script>
+        // --- 1. 准备数据 ---
+        // 假设的朝代数据 (名称, 起始年, 结束年, 颜色)
+        // 注意：年份使用公元纪年，公元前用负数表示。你需要根据实际历史调整。
+        const dynasties = [
+            { name: "夏", start: -2070, end: -1600, color: "#e41a1c" }, // 红色
+            { name: "商", start: -1600, end: -1046, color: "#377eb8" }, // 蓝色
+            { name: "周", start: -1046, end: -256, color: "#4daf4a" },  // 绿色
+            { name: "秦", start: -221, end: -207, color: "#984ea3" },  // 紫色
+            { name: "汉", start: -202, end: 220, color: "#ff7f00" },  // 橙色
+            { name: "三国~晋", start: 220, end: 420, color: "#ffff33" }, // 黄色 (合并较短或复杂的时期)
+            { name: "隋", start: 581, end: 618, color: "#a65628" },  // 棕色
+            { name: "唐", start: 618, end: 907, color: "#f781bf" },  // 粉色
+            // ... 你可以继续添加更多朝代
+            { name: "宋", start: 960, end: 1279, color: "#66c2a5" },
+            { name: "元", start: 1271, end: 1368, color: "#fc8d62" },
+            { name: "明", start: 1368, end: 1644, color: "#8da0cb" },
+            { name: "清", start: 1644, end: 1912, color: "#e78ac3" }
+        ];
+
+        // 假设的历史事件数据 (名称, 年份, 类型) - 少量示例
+        const events = [
+            { name: "商鞅变法", year: -356, type: "政治" },
+            { name: "秦统一六国", year: -221, type: "战争/政治" },
+            { name: "造纸术改进(蔡伦)", year: 105, type: "科技" },
+            { name: "赤壁之战", year: 208, type: "战争" },
+            { name: "玄武门之变", year: 626, type: "政治" },
+            { name: "安史之乱", year: 755, type: "战争" },
+            { name: "活字印刷术(毕昇)", year: 1041, type: "科技" }, // 北宋
+            { name: "郑和下西洋", year: 1405, type: "人物/事件" }, // 明
+            { name: "辛亥革命", year: 1911, type: "政治" },
+            // ... 添加更多事件
+        ];
+
+        // --- 2. 设置 SVG 画布 ---
+        // 获取容器尺寸，或设定固定尺寸
+        const container = document.getElementById('chart');
+        // 使用getBoundingClientRect()获取实际渲染尺寸，更准确
+        const containerRect = container.getBoundingClientRect();
+        const containerWidth = containerRect.width || 1000;
+        const containerHeight = containerRect.height || 600;
+
+
+        const svg = d3.select("#chart").append("svg")
+            .attr("width", containerWidth)
+            .attr("height", containerHeight)
+            .attr("viewBox", `0 0 ${containerWidth} ${containerHeight}`) // 使SVG响应式
+            .style("background-color", "#f0f0f0"); // 背景色，方便看清
+
+        // 添加一个 <g> 元素用于组织河流路径和事件节点，方便后续缩放平移
+        const riverGroup = svg.append("g").attr("id", "river-group");
+
+        // 添加提示框
+        const tooltip = d3.select(".tooltip");
+        // --- 3. 加载并处理黄河 SVG ---
+
+        d3.xml("/assets/images/Yellow_river.svg").then(data => {
+            console.log("步骤 1: d3.xml 加载成功，data:", data); // 添加日志
+
+            // 查找导入的 SVG 文档中的路径元素
+            const importedRiverPathNode = data.documentElement.querySelector("#yellow_river");
+            console.log("步骤 2: 查找到的河流节点:", importedRiverPathNode); // 添加日志
+
+            if (!importedRiverPathNode) { // 检查是否找到了元素
+                console.error("错误：在 river.svg 中找不到 ID 为 'yellow_river' 的路径！请检查SVG文件和ID。");
+                riverGroup.append("text").text("无法加载河流路径").attr("x", 10).attr("y", 20).attr("fill", "red");
+                return; // 停止执行
+            }
+
+            // *** 提取路径的 'd' 属性值 ***
+            const riverDAttribute = importedRiverPathNode.getAttribute('d');
+            console.log("步骤 3: 提取的 'd' 属性值:", riverDAttribute); // 添加日志
+
+
+            // *** 在我们的主 SVG 中绘制一条基础河流路径 ***
+            const baseRiverPath = riverGroup.append("path")
+                .attr("d", riverDAttribute) // 使用提取到的d属性
+                .attr("fill", "none")
+                .attr("stroke", "lightgray")
+                .attr("stroke-width", 2);
+
+            // 获取新创建的基础路径的总长度
+            const totalPathLength = baseRiverPath.node().getTotalLength();
+            console.log("步骤 4: 路径总长度:", totalPathLength); // 添加日志
+
+            // --- 4. 定义时间到路径长度的映射 (不变) ---
+            const minYear = d3.min(dynasties, d => d.start);
+            const maxYear = d3.max(dynasties, d => d.end);
+            const totalTimespan = maxYear - minYear;
+
+            const timeScale = d3.scaleLinear()
+                .domain([minYear, maxYear])
+                .range([0, totalPathLength]);
+
+
+            // --- 5. 绘制按朝代分色的河流段 ---
+            // ... (这部分代码不变) ...
+            riverGroup.selectAll(".river-segment")
+                .data(dynasties)
+                .enter()
+                .append("path")
+                .attr("class", "river-segment")
+                .attr("d", riverDAttribute) // *** 使用提取到的d属性 ***
+                .style("stroke", d => d.color)
+                .style("stroke-width", 8)
+                .style("fill", "none")
+                .style("stroke-linecap", "round")
+                .attr("stroke-dasharray", function (d) {
+                    const startLength = timeScale(d.start);
+                    const endLength = timeScale(d.end);
+                    const segmentLength = Math.max(0, endLength - startLength);
+                    return `${segmentLength} ${totalPathLength - segmentLength}`;
+                })
+                .attr("stroke-dashoffset", function (d) {
+                    return -timeScale(d.start);
+                })
+                .on("mouseover", function (event, d) {
+                    tooltip.transition()
+                        .duration(200)
+                        .style("opacity", .9);
+                    const startYear = d.start > 0 ? d.start + '年' : '公元前' + Math.abs(d.start) + '年';
+                    const endYear = d.end > 0 ? d.end + '年' : '公元前' + Math.abs(d.end) + '年';
+                    tooltip.html(`${d.name}朝<br>(${startYear} ~ ${endYear})`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", function (d) {
+                    tooltip.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                });
+
+
+            // --- 6. 添加历史事件节点 ---
+            // ... (这部分代码不变) ...
+            const eventNodes = riverGroup.selectAll(".event-node")
+                .data(events.filter(d => d.year >= minYear && d.year <= maxYear))
+                .enter()
+                .append("circle")
+                .attr("class", "event-node")
+                .attr("r", 5)
+                .attr("fill", d => {
+                    if (d.type.includes("科技")) return "purple";
+                    if (d.type.includes("战争")) return "red";
+                    if (d.type.includes("人物")) return "green";
+                    if (d.type.includes("政治")) return "blue";
+                    return "black";
+                })
+                .attr("transform", function (d) {
+                    const eventLength = timeScale(d.year);
+                    if (eventLength < 0 || eventLength > totalPathLength) {
+                        console.warn(`事件 "${d.name}" (${d.year}) 超出路径范围，无法定位。`);
+                        return "translate(-100, -100)";
+                    }
+                    try {
+                        // *** 使用 baseRiverPath 计算点 ***
+                        const point = baseRiverPath.node().getPointAtLength(eventLength);
+                        return `translate(${point.x}, ${point.y})`;
+                    } catch (e) {
+                        console.error(`无法为事件 "${d.name}" (${d.year}) 在长度 ${eventLength} 处获取点:`, e);
+                        return "translate(-100, -100)";
+                    }
+                })
+                .on("mouseover", function (event, d) {
+                    d3.select(this).attr("r", 8);
+                    tooltip.transition().duration(200).style("opacity", .9);
+                    tooltip.html(`${d.name}<br>(${d.year > 0 ? d.year : '公元前' + Math.abs(d.year)}年)<br>类型: ${d.type}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", function (d) {
+                    d3.select(this).attr("r", 5);
+                    tooltip.transition().duration(500).style("opacity", 0);
+                });
+
+
+            // *** 应用整体缩放和平移到 riverGroup ***
+            const pathBBox = baseRiverPath.node().getBBox();
+            console.log("步骤 5: 路径边界框 (BBox):", pathBBox); // 添加日志
+
+            if (pathBBox.width > 0 && pathBBox.height > 0) {
+                const scaleFactor = Math.min(
+                    containerWidth / pathBBox.width,
+                    containerHeight / pathBBox.height
+                ) * 0.9;
+
+                const translateX = (containerWidth - pathBBox.width * scaleFactor) / 2 - pathBBox.x * scaleFactor;
+                const translateY = (containerHeight - pathBBox.height * scaleFactor) / 2 - pathBBox.y * scaleFactor;
+
+                console.log("步骤 6: 计算的变换值:", { scaleFactor, translateX, translateY }); // 添加日志
+                riverGroup.attr("transform", `translate(${translateX}, ${translateY}) scale(${scaleFactor})`);
+            } else {
+                console.warn("无法获取河流路径的边界框（BBox），无法自动缩放。");
+            }
+
+            // --- 7. 创建事件类型图例和筛选功能 ---
+            // ... (这部分代码不变) ...
+            console.log("步骤 7: 图例创建完成"); // 添加日志
+
+            const uniqueEventTypes = Array.from(new Set(events.map(d => d.type)));
+            const legendData = ["全部"].concat(uniqueEventTypes);
+            const legend = d3.select("#legend");
+
+            function getEventTypeColor(type) {
+                if (type.includes("科技")) return "purple";
+                if (type.includes("战争")) return "red";
+                if (type.includes("人物")) return "green";
+                if (type.includes("政治")) return "blue";
+                return "black";
+            }
+
+            const legendItems = legend.selectAll(".legend-item")
+                .data(legendData)
+                .enter()
+                .append("div")
+                .attr("class", "legend-item")
+                .text(d => d)
+                .on("click", function (event, selectedType) {
+                    legendItems.classed("active", false);
+                    d3.select(this).classed("active", true);
+
+                    eventNodes.style("display", function (d) {
+                        if (selectedType === "全部") {
+                            return null;
+                        } else {
+                            return d.type.includes(selectedType) ? null : "none";
+                        }
+                    });
+                });
+
+            legendItems.insert("span", ":first-child")
+                .attr("class", "legend-swatch")
+                .style("background-color", function (d) {
+                    return d === "全部" ? "lightgray" : getEventTypeColor(d);
+                });
+
+            legend.select(".legend-item").classed("active", true);
+
+
+        }).catch(error => {
+            console.error("加载 river.svg 失败:", error);
+            svg.append("text")
+                .attr("x", 10)
+                .attr("y", 20)
+                .text("错误：无法加载 river.svg 文件。请检查文件是否存在以及路径是否正确。")
+                .attr("fill", "red");
+        });
+
+
+    </script>
+
+</body>
+
+</html> -->

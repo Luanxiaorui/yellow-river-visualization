@@ -1,0 +1,26 @@
+/huanghe-historical-timeline
+│
+├── /assets                   # 存放静态资源
+│   ├── /images               # 存放图片资源（如黄河SVG文件）
+│   └── /css                  # 存放CSS文件
+|   |__/example               # 存放一些可视化样例
+│
+├── /data                     # 存放历史事件数据文件（如 JSON）
+│   └── events.json           # 存储部分历史事件数据（展示节点）
+|   |__ dynasties.json        # 存储朝代数据       （颜色分段）
+|   |__/bsae_info             # 存放初始的事件数据
+|   |__/data_sourec           # 存放数据来源
+|   |__/info_show             # 存放用来可视化的数据
+│
+├── /src                      # 存放源代码
+│   ├── /js                   # 存放JavaScript文件
+│   │   ├── main.js           # 主JavaScript文件, 负责加载数据
+│   │   └── visulization.js   # 处理黄河SVG和D3.js渲染的脚本
+│   └── /lib                  # 存放辅助函数或类库
+│       
+│
+├── index.html                # 项目的入口HTML文件
+└── package.json              # 项目的配置文件（如果使用npm管理依赖）
+|__ package-lock.json         # 
+|
+|__/handle_data               # 存放处理数据的py脚本

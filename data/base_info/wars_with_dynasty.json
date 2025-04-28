@@ -1,0 +1,4727 @@
+[
+  {
+    "name": "神农氏攻斧燧氏之战",
+    "year": -3000,
+    "dynasty": "远古"
+  },
+  {
+    "name": "黄帝征服中原各族之战",
+    "year": -2600,
+    "dynasty": "远古"
+  },
+  {
+    "name": "阪泉之战",
+    "year": -2600,
+    "dynasty": "远古"
+  },
+  {
+    "name": "涿鹿之战",
+    "year": -2600,
+    "dynasty": "远古"
+  },
+  {
+    "name": "颛顼与共工之战",
+    "year": -2500,
+    "dynasty": "远古"
+  },
+  {
+    "name": "帝喾攻共工之战",
+    "year": -2400,
+    "dynasty": "远古"
+  },
+  {
+    "name": "尧攻驩兜丹水之战",
+    "year": -2300,
+    "dynasty": "远古"
+  },
+  {
+    "name": "舜攻三苗之战",
+    "year": -2200,
+    "dynasty": "远古"
+  },
+  {
+    "name": "禹攻共工之战",
+    "year": -2200,
+    "dynasty": "远古"
+  },
+  {
+    "name": "禹攻三苗之战",
+    "year": -2200,
+    "dynasty": "远古"
+  },
+  {
+    "name": "夏启攻益之战",
+    "year": -2100,
+    "dynasty": "远古"
+  },
+  {
+    "name": "甘之战",
+    "year": -2100,
+    "dynasty": "远古"
+  },
+  {
+    "name": "夏启攻西河之战",
+    "year": -2100,
+    "dynasty": "远古"
+  },
+  {
+    "name": "夏胤攻羲氏和氏之战",
+    "year": -2000,
+    "dynasty": "夏"
+  },
+  {
+    "name": "夏相攻东夷之战",
+    "year": -2000,
+    "dynasty": "夏"
+  },
+  {
+    "name": "夏少康复国之战",
+    "year": -1900,
+    "dynasty": "夏"
+  },
+  {
+    "name": "洛伯与河伯之战",
+    "year": -1800,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商上甲微灭有易氏之战",
+    "year": -1700,
+    "dynasty": "夏"
+  },
+  {
+    "name": "夏不降攻九苑之战",
+    "year": -1700,
+    "dynasty": "夏"
+  },
+  {
+    "name": "夏桀攻有施氏之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "夏桀攻有缗氏之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商灭夏的战争",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商汤灭葛之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商汤灭韦顾之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商汤灭昆吾之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商中丁攻蓝夷之战",
+    "year": -1600,
+    "dynasty": "夏"
+  },
+  {
+    "name": "商河亶甲攻蓝夷班方之战",
+    "year": -1400,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻周边各国的战争",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻甫之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻沚之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻周之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻巴方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻下危之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "武丁攻宙方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻缶之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "子方攻基攻缶之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻亘方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻荆楚之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻归、佣之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻虎方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁对西北游牧民族的战争",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻土之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻洋方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻羌方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻北羌之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻龙方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商震攻鬼方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武丁攻人方之战",
+    "year": -1300,
+    "dynasty": "商"
+  },
+  {
+    "name": "廪辛、康丁攻危方之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "廪辛、康丁抗击羌方之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武乙攻召方之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "商武乙攻人方之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历攻西落鬼戎之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历灭程之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历攻燕京戎之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历攻余无戎之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历攻始呼戎之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周季历攻翳徒戎之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "周文王攻商之战",
+    "year": -1200,
+    "dynasty": "商"
+  },
+  {
+    "name": "商帝乙攻人方之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "商帝乙帝辛攻盂方之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "商帝辛攻东夷之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周文王攻犬戎之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周文王灭密须之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周文王攻耆之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周文王灭邗之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周灭崇之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "牧野之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周公东征",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周公灭武庚之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周公平管蔡之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周公攻东国之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周成王攻录国之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周康王攻鬼方之战",
+    "year": -1100,
+    "dynasty": "商"
+  },
+  {
+    "name": "周昭王攻荆楚之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周昭王攻东夷之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周穆王攻犬戎之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周穆王攻徐之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周穆王攻群舒之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周共王灭密之战",
+    "year": -1000,
+    "dynasty": "周"
+  },
+  {
+    "name": "周懿王攻犬戎之战",
+    "year": -900,
+    "dynasty": "周"
+  },
+  {
+    "name": "周孝王攻西戎之战",
+    "year": -900,
+    "dynasty": "周"
+  },
+  {
+    "name": "周夷王攻太原戎之战",
+    "year": -900,
+    "dynasty": "周"
+  },
+  {
+    "name": "武公攻狁之战",
+    "year": -900,
+    "dynasty": "周"
+  },
+  {
+    "name": "东郡太守翟义起兵反王莽",
+    "year": 7,
+    "dynasty": "汉"
+  },
+  {
+    "name": "刘快起兵反王莽",
+    "year": 9,
+    "dynasty": "汉"
+  },
+  {
+    "name": "王莽征高丽",
+    "year": 12,
+    "dynasty": "汉"
+  },
+  {
+    "name": "王莽攻击句町国",
+    "year": 16,
+    "dynasty": "汉"
+  },
+  {
+    "name": "成昌之战",
+    "year": 22,
+    "dynasty": "汉"
+  },
+  {
+    "name": "昆阳之战",
+    "year": 23,
+    "dynasty": "汉"
+  },
+  {
+    "name": "杜陵之战",
+    "year": 26,
+    "dynasty": "汉"
+  },
+  {
+    "name": "湖县之战",
+    "year": 27,
+    "dynasty": "汉"
+  },
+  {
+    "name": "崤底之战",
+    "year": 27,
+    "dynasty": "汉"
+  },
+  {
+    "name": "宜阳之战",
+    "year": 27,
+    "dynasty": "汉"
+  },
+  {
+    "name": "东汉统一战争",
+    "year": 25,
+    "dynasty": "汉"
+  },
+  {
+    "name": "东汉统一关东之战",
+    "year": 26,
+    "dynasty": "汉"
+  },
+  {
+    "name": "漳水之战",
+    "year": 26,
+    "dynasty": "汉"
+  },
+  {
+    "name": "睢阳之战",
+    "year": 26,
+    "dynasty": "汉"
+  },
+  {
+    "name": "黎丘之战",
+    "year": 27,
+    "dynasty": "汉"
+  },
+  {
+    "name": "祝阿、临淄之战",
+    "year": 29,
+    "dynasty": "汉"
+  },
+  {
+    "name": "东汉平陇西之战",
+    "year": 30,
+    "dynasty": "汉"
+  },
+  {
+    "name": "天水之战",
+    "year": 32,
+    "dynasty": "汉"
+  },
+  {
+    "name": "东汉灭蜀之战",
+    "year": 35,
+    "dynasty": "汉"
+  },
+  {
+    "name": "东汉攻公孙述之战",
+    "year": 35,
+    "dynasty": "汉"
+  },
+  {
+    "name": "广都、成都之战",
+    "year": 35,
+    "dynasty": "汉"
+  },
+  {
+    "name": "马援征岭南之战",
+    "year": 42,
+    "dynasty": "汉"
+  },
+  {
+    "name": "稽落山之战",
+    "year": 89,
+    "dynasty": "汉"
+  },
+  {
+    "name": "赤亭之战",
+    "year": 115,
+    "dynasty": "汉"
+  },
+  {
+    "name": "坐原战役",
+    "year": 172,
+    "dynasty": "汉"
+  },
+  {
+    "name": "长社之战",
+    "year": 184,
+    "dynasty": "汉"
+  },
+  {
+    "name": "广宗之战",
+    "year": 184,
+    "dynasty": "汉"
+  },
+  {
+    "name": "下曲阳之战",
+    "year": 184,
+    "dynasty": "汉"
+  },
+  {
+    "name": "五斗米道",
+    "year": 184,
+    "dynasty": "汉"
+  },
+  {
+    "name": "黑山军",
+    "year": 185,
+    "dynasty": "汉"
+  },
+  {
+    "name": "白波军",
+    "year": 188,
+    "dynasty": "汉"
+  },
+  {
+    "name": "董卓讨伐战",
+    "year": 190,
+    "dynasty": "汉"
+  },
+  {
+    "name": "鲁阳之战",
+    "year": 190,
+    "dynasty": "汉"
+  },
+  {
+    "name": "曹操统一北方的战争",
+    "year": 191,
+    "dynasty": "汉"
+  },
+  {
+    "name": "武阳之战",
+    "year": 192,
+    "dynasty": "汉"
+  },
+  {
+    "name": "兖州之战",
+    "year": 192,
+    "dynasty": "汉"
+  },
+  {
+    "name": "定陶之战",
+    "year": 195,
+    "dynasty": "汉"
+  },
+  {
+    "name": "官渡之战",
+    "year": 200,
+    "dynasty": "汉"
+  },
+  {
+    "name": "徐州之战",
+    "year": 200,
+    "dynasty": "汉"
+  },
+  {
+    "name": "白马之战",
+    "year": 200,
+    "dynasty": "汉"
+  },
+  {
+    "name": "乌巢之战",
+    "year": 200,
+    "dynasty": "汉"
+  },
+  {
+    "name": "白狼山之战",
+    "year": 207,
+    "dynasty": "汉"
+  },
+  {
+    "name": "孙策平江东之战",
+    "year": 195,
+    "dynasty": "汉"
+  },
+  {
+    "name": "曲阿之战",
+    "year": 195,
+    "dynasty": "汉"
+  },
+  {
+    "name": "穰城之战",
+    "year": 198,
+    "dynasty": "汉"
+  },
+  {
+    "name": "夏口之战",
+    "year": 203,
+    "dynasty": "汉"
+  },
+  {
+    "name": "博望坡之战",
+    "year": 208,
+    "dynasty": "汉"
+  },
+  {
+    "name": "江夏之战",
+    "year": 208,
+    "dynasty": "汉"
+  },
+  {
+    "name": "赤壁之战",
+    "year": 208,
+    "dynasty": "汉"
+  },
+  {
+    "name": "林历山之战",
+    "year": 208,
+    "dynasty": "汉"
+  },
+  {
+    "name": "渭南之战",
+    "year": 211,
+    "dynasty": "汉"
+  },
+  {
+    "name": "益州之战",
+    "year": 211,
+    "dynasty": "汉"
+  },
+  {
+    "name": "皖城之战",
+    "year": 214,
+    "dynasty": "汉"
+  },
+  {
+    "name": "合肥之战",
+    "year": 215,
+    "dynasty": "汉"
+  },
+  {
+    "name": "巴西之战",
+    "year": 215,
+    "dynasty": "汉"
+  },
+  {
+    "name": "汉中之战",
+    "year": 218,
+    "dynasty": "汉"
+  },
+  {
+    "name": "樊城之战",
+    "year": 219,
+    "dynasty": "汉"
+  },
+  {
+    "name": "江陵之战",
+    "year": 219,
+    "dynasty": "汉"
+  },
+  {
+    "name": "夷陵之战",
+    "year": 221,
+    "dynasty": "三国"
+  },
+  {
+    "name": "濡须口之战",
+    "year": 223,
+    "dynasty": "三国"
+  },
+  {
+    "name": "广陵之战",
+    "year": 224,
+    "dynasty": "三国"
+  },
+  {
+    "name": "诸葛亮南征",
+    "year": 225,
+    "dynasty": "三国"
+  },
+  {
+    "name": "诸葛亮北伐",
+    "year": 228,
+    "dynasty": "三国"
+  },
+  {
+    "name": "街亭之战",
+    "year": 228,
+    "dynasty": "三国"
+  },
+  {
+    "name": "吴平山越之战",
+    "year": 234,
+    "dynasty": "三国"
+  },
+  {
+    "name": "魏灭公孙渊辽东之战",
+    "year": 238,
+    "dynasty": "三国"
+  },
+  {
+    "name": "汉中之战",
+    "year": 244,
+    "dynasty": "三国"
+  },
+  {
+    "name": "曹魏与高句丽的战争",
+    "year": 244,
+    "dynasty": "三国"
+  },
+  {
+    "name": "曲城之战",
+    "year": 249,
+    "dynasty": "三国"
+  },
+  {
+    "name": "东兴之战",
+    "year": 252,
+    "dynasty": "三国"
+  },
+  {
+    "name": "姜维北伐",
+    "year": 253,
+    "dynasty": "三国"
+  },
+  {
+    "name": "南安、合肥之战",
+    "year": 253,
+    "dynasty": "三国"
+  },
+  {
+    "name": "寿春之战",
+    "year": 257,
+    "dynasty": "三国"
+  },
+  {
+    "name": "魏灭蜀之战",
+    "year": 263,
+    "dynasty": "三国"
+  },
+  {
+    "name": "钟会谋反",
+    "year": 264,
+    "dynasty": "三国"
+  },
+  {
+    "name": "永安之战",
+    "year": 264,
+    "dynasty": "三国"
+  },
+  {
+    "name": "西陵之战",
+    "year": 272,
+    "dynasty": "三国"
+  },
+  {
+    "name": "凉州之战",
+    "year": 279,
+    "dynasty": "三国"
+  },
+  {
+    "name": "晋灭吴之战",
+    "year": 279,
+    "dynasty": "三国"
+  },
+  {
+    "name": "八王之乱",
+    "year": 291,
+    "dynasty": "晋"
+  },
+  {
+    "name": "西晋末年：流民起义",
+    "year": 296,
+    "dynasty": "晋"
+  },
+  {
+    "name": "陈敏反晋之战",
+    "year": 305,
+    "dynasty": "晋"
+  },
+  {
+    "name": "永嘉之乱",
+    "year": 311,
+    "dynasty": "晋"
+  },
+  {
+    "name": "宁平城之战",
+    "year": 311,
+    "dynasty": "晋"
+  },
+  {
+    "name": "杜弢起义",
+    "year": 311,
+    "dynasty": "晋"
+  },
+  {
+    "name": "襄国之战",
+    "year": 312,
+    "dynasty": "晋"
+  },
+  {
+    "name": "幽州之战",
+    "year": 314,
+    "dynasty": "晋"
+  },
+  {
+    "name": "长安之战",
+    "year": 316,
+    "dynasty": "晋"
+  },
+  {
+    "name": "荥阳之战",
+    "year": 317,
+    "dynasty": "晋"
+  },
+  {
+    "name": "浚义之战",
+    "year": 319,
+    "dynasty": "晋"
+  },
+  {
+    "name": "棘城之战",
+    "year": 319,
+    "dynasty": "晋"
+  },
+  {
+    "name": "赵平大秦之战",
+    "year": 320,
+    "dynasty": "晋"
+  },
+  {
+    "name": "晋平苏峻之战",
+    "year": 327,
+    "dynasty": "晋"
+  },
+  {
+    "name": "洛阳之战",
+    "year": 328,
+    "dynasty": "晋"
+  },
+  {
+    "name": "晋平成汉之战",
+    "year": 346,
+    "dynasty": "晋"
+  },
+  {
+    "name": "襄国之战（英语：Wei–Jie war）",
+    "year": 350,
+    "dynasty": "晋"
+  },
+  {
+    "name": "晋攻前秦之战",
+    "year": 354,
+    "dynasty": "晋"
+  },
+  {
+    "name": "鲁口之战",
+    "year": 354,
+    "dynasty": "晋"
+  },
+  {
+    "name": "广固之战",
+    "year": 355,
+    "dynasty": "晋"
+  },
+  {
+    "name": "野王之战",
+    "year": 361,
+    "dynasty": "晋"
+  },
+  {
+    "name": "晋攻前燕之战",
+    "year": 369,
+    "dynasty": "晋"
+  },
+  {
+    "name": "吕光攻龟兹之战",
+    "year": 383,
+    "dynasty": "晋"
+  },
+  {
+    "name": "淝水之战",
+    "year": 383,
+    "dynasty": "晋"
+  },
+  {
+    "name": "北魏统一北方的战争",
+    "year": 386,
+    "dynasty": "晋"
+  },
+  {
+    "name": "凉州之战",
+    "year": 387,
+    "dynasty": "晋"
+  },
+  {
+    "name": "大界之战",
+    "year": 389,
+    "dynasty": "晋"
+  },
+  {
+    "name": "杏城镇之战",
+    "year": 390,
+    "dynasty": "晋"
+  },
+  {
+    "name": "北魏灭刘卫辰之战",
+    "year": 390,
+    "dynasty": "晋"
+  },
+  {
+    "name": "吕光攻西秦之战",
+    "year": 392,
+    "dynasty": "晋"
+  },
+  {
+    "name": "后燕灭西燕之战",
+    "year": 393,
+    "dynasty": "晋"
+  },
+  {
+    "name": "参合陂之战",
+    "year": 395,
+    "dynasty": "晋"
+  },
+  {
+    "name": "北魏攻后燕之战",
+    "year": 396,
+    "dynasty": "晋"
+  },
+  {
+    "name": "孙恩起义",
+    "year": 399,
+    "dynasty": "晋"
+  },
+  {
+    "name": "卢循起义",
+    "year": 402,
+    "dynasty": "晋"
+  },
+  {
+    "name": "覆舟山之战",
+    "year": 404,
+    "dynasty": "晋"
+  },
+  {
+    "name": "刘裕击桓玄之战",
+    "year": 404,
+    "dynasty": "晋"
+  },
+  {
+    "name": "刘裕灭南燕之战",
+    "year": 409,
+    "dynasty": "晋"
+  },
+  {
+    "name": "刘裕灭后秦之战",
+    "year": 416,
+    "dynasty": "晋"
+  },
+  {
+    "name": "魏宋河南之战",
+    "year": 422,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "宋攻谢晦之战",
+    "year": 426,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "西秦攻北凉之战",
+    "year": 426,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "魏攻统万之战",
+    "year": 426,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "统万之战",
+    "year": 427,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "魏攻柔然之战",
+    "year": 429,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "宋魏河南之战",
+    "year": 430,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "平凉之战",
+    "year": 430,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "魏燕之战",
+    "year": 432,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "汉中之战",
+    "year": 433,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "魏灭北凉之战",
+    "year": 439,
+    "dynasty": "十六国"
+  },
+  {
+    "name": "雍州之战",
+    "year": 449,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "陕城之战",
+    "year": 450,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "宋文帝攻魏河南之战",
+    "year": 452,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "宋平刘义宣之战",
+    "year": 454,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "广陵之战",
+    "year": 459,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "宋平刘子勋之战",
+    "year": 466,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "彭城之战",
+    "year": 466,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "青州之战",
+    "year": 467,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "建康之战",
+    "year": 474,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "齐魏战争",
+    "year": 479,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "寿阳之战",
+    "year": 479,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "魏伐百济",
+    "year": 488,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "淮汉之战",
+    "year": 494,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "汉中之战",
+    "year": 495,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "南阳之战",
+    "year": 497,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "钟离、义阳之战",
+    "year": 503,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "合肥之战",
+    "year": 506,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "钟离之战",
+    "year": 507,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "硖石之战",
+    "year": 515,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "梁与北魏的战争",
+    "year": 527,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "陈庆之攻北魏之战",
+    "year": 529,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "高欢攻尔朱氏之战",
+    "year": 531,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "至次年：北魏分裂",
+    "year": 534,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "潼关之战",
+    "year": 537,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "沙苑之战",
+    "year": 537,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "邙山之战",
+    "year": 543,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "玉壁之战",
+    "year": 546,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "侯景之乱",
+    "year": 547,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "侯景叛东魏之战",
+    "year": 547,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "侯景叛梁魏之战",
+    "year": 548,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "侯景攻三吴之战",
+    "year": 549,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "萧绎讨平侯景之乱",
+    "year": 550,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "江陵之战",
+    "year": 554,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "北齐攻梁之战",
+    "year": 556,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "洛阳之战",
+    "year": 564,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "沌口之战",
+    "year": 567,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "宜阳、汾北之战",
+    "year": 569,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "河阴之战",
+    "year": 575,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "平阳之战",
+    "year": 576,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "杨坚平尉迟迥之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "杨坚平王谦之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "利州之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "武涉之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "邺城之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "梁郡之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "金乡之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "始州之战",
+    "year": 580,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋统一战争",
+    "year": 581,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "丰利山之战",
+    "year": 581,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "高颎攻陈之战",
+    "year": 581,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "突厥攻隋之战",
+    "year": 581,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "陈平始兴王陈叔陵叛乱",
+    "year": 582,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "甑山、涢口之战",
+    "year": 582,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "可洛赅山之战",
+    "year": 582,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "周盘之战",
+    "year": 582,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋反击突厥之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "白道之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋灭高宝宁之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "高越原之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "沙钵略与阿波之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "砂城之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋梁远击吐谷浑之战",
+    "year": 583,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋贺娄子干击吐谷浑之战",
+    "year": 584,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "陈平章大宝叛乱",
+    "year": 585,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "梁戚昕袭陈公安之战",
+    "year": 585,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋助沙钵略可汗击阿波可汗之战",
+    "year": 585,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "莫何可汗击阿波可汗之战",
+    "year": 587,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋灭陈之战",
+    "year": 588,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "狼尾滩之战",
+    "year": 588,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "歧亭、延州之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "白土岗之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "湘州之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "南康之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋定三吴之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "南定州之战",
+    "year": 589,
+    "dynasty": "南北朝"
+  },
+  {
+    "name": "隋平江南之战",
+    "year": 590,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击降党项之战",
+    "year": 595,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平定爨玩昆州之战",
+    "year": 597,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平李光仕叛乱",
+    "year": 597,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平李世贤叛乱",
+    "year": 597,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋文帝攻高句丽之战",
+    "year": 598,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击突厥之战",
+    "year": 599,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋与突厥达头可汗之战",
+    "year": 599,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击达头可汗之战",
+    "year": 600,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平李英林叛乱",
+    "year": 600,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋卫文升平僚人叛乱",
+    "year": 601,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋冯盎平僚人叛乱",
+    "year": 601,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杨素击突厥之战",
+    "year": 602,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平李佛子之战",
+    "year": 602,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平杨谅之战",
+    "year": 604,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋攻林邑之战",
+    "year": 605,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击契丹之战",
+    "year": 605,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击铁勒之战",
+    "year": 607,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋灭伊吾之战",
+    "year": 608,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击吐谷浑之战",
+    "year": 608,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平建国门事变",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋击流求之战",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "西突厥射匮击处罗可汗之战",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋末农民战争",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "尉文通起义",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "王万昌起义",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "翟让起义",
+    "year": 610,
+    "dynasty": "隋"
+  },
+  {
+    "name": "王薄起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "刘霸道起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "孙安祖起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "高士达起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "窦建德起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "张金称起义",
+    "year": 611,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋炀帝第一次攻高丽之战",
+    "year": 612,
+    "dynasty": "隋"
+  },
+  {
+    "name": "刘元进起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杜伏威起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "孟海公起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "韩相国起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "彭孝才起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "宋子贤起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杜彦冰起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李德逸起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "韩进洛、甄宝车起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "白瑜娑起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "郭方预起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "孟让起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "郝孝德起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "格谦起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋炀帝第二次攻高丽之战",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋平杨玄感之战",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "陈填、梁慧尚、李三儿起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "朱燮起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "管崇起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "吕明星起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "向海明起义",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杜伏威灭宋颢之战",
+    "year": 613,
+    "dynasty": "隋"
+  },
+  {
+    "name": "唐弼起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "张大彪、宗世模起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "刘迦论起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "郑文雅、林宝护起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋炀帝第三次攻高丽之战",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杨公卿起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "司马长安起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "刘苗王起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "王德仁起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "左孝友起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "卢明月起义",
+    "year": 614,
+    "dynasty": "隋"
+  },
+  {
+    "name": "颜宣政起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "王须拔、魏刀儿起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杨仲绪起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "龙门之战",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "张起绪起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "雁门之围",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李子通起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "魏骐驎起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "敬盘陀、柴保昌起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李渊剿抚汾晋起义军",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "朱粲起义",
+    "year": 615,
+    "dynasty": "隋"
+  },
+  {
+    "name": "翟松柏起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "卢公暹起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "甄翟儿攻太原之战",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "孙华起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "赵万海起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "操师乞、林士弘起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "荔非世雄起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杜扬州、沈觅敌起义",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "大海寺之战",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "雀鼠谷之战",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李渊击突厥之战",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "隋王仁恭击突厥之战",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "罗艺起事",
+    "year": 616,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杜伏威击陈棱之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "徐圆朗起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "洛口仓之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "石子河之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "王子英起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "梁师都起事",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "刘武周起事",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "张子路起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李通德起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "郭子和起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "薛举起事",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "突厥攻扰晋阳之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "河间之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "杨世洛起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "黑石之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "萧铣起事",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "窦建德兼并魏刀儿之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "綦公顺起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "张善安起义",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "李轨起事",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "洛南之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "宇文化及江都之乱",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "显福宫之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "沈法兴起事",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "徐世勣讨王德仁之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "黎阳之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "邙山之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "窦建德攻占冀州之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "窦建德攻幽州之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "霍邑之战",
+    "year": 617,
+    "dynasty": "隋"
+  },
+  {
+    "name": "唐朝统一战争",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "浅水原之战",
+    "year": 618,
+    "dynasty": "隋"
+  },
+  {
+    "name": "柏壁之战",
+    "year": 619,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐与突厥战争",
+    "year": 620,
+    "dynasty": "唐"
+  },
+  {
+    "name": "洛阳、虎牢之战",
+    "year": 620,
+    "dynasty": "唐"
+  },
+  {
+    "name": "虎牢之战",
+    "year": 621,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐平萧铣之战",
+    "year": 621,
+    "dynasty": "唐"
+  },
+  {
+    "name": "洺水之战",
+    "year": 622,
+    "dynasty": "唐"
+  },
+  {
+    "name": "灵州之战",
+    "year": 622,
+    "dynasty": "唐"
+  },
+  {
+    "name": "下博之战",
+    "year": 622,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭刘黑闼之战",
+    "year": 622,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐与吐蕃战争",
+    "year": 623,
+    "dynasty": "唐"
+  },
+  {
+    "name": "岷州之战",
+    "year": 623,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭辅公祏之战",
+    "year": 623,
+    "dynasty": "唐"
+  },
+  {
+    "name": "五陇坂之战",
+    "year": 624,
+    "dynasty": "唐"
+  },
+  {
+    "name": "玄武门事变",
+    "year": 626,
+    "dynasty": "唐"
+  },
+  {
+    "name": "泾阳之战",
+    "year": 626,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭东突厥之战",
+    "year": 629,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐击吐谷浑之战",
+    "year": 635,
+    "dynasty": "唐"
+  },
+  {
+    "name": "松州之战",
+    "year": 638,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭高昌之战",
+    "year": 640,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐击薛延陀之战",
+    "year": 641,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐击焉耆之战",
+    "year": 644,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐与高句丽战争",
+    "year": 645,
+    "dynasty": "唐"
+  },
+  {
+    "name": "安市城之战",
+    "year": 645,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭薛延陀之战",
+    "year": 646,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐攻龟兹之战",
+    "year": 648,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭西突厥之战",
+    "year": 657,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭百济之战",
+    "year": 660,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐与契丹、奚等之战",
+    "year": 660,
+    "dynasty": "唐"
+  },
+  {
+    "name": "平壤之战",
+    "year": 661,
+    "dynasty": "唐"
+  },
+  {
+    "name": "天山之战",
+    "year": 662,
+    "dynasty": "唐"
+  },
+  {
+    "name": "白江口之战",
+    "year": 663,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭高句丽之战",
+    "year": 666,
+    "dynasty": "唐"
+  },
+  {
+    "name": "大非川之战",
+    "year": 670,
+    "dynasty": "唐"
+  },
+  {
+    "name": "罗唐战争",
+    "year": 670,
+    "dynasty": "唐"
+  },
+  {
+    "name": "青海之战",
+    "year": 678,
+    "dynasty": "唐"
+  },
+  {
+    "name": "裴行俭破西突厥之战",
+    "year": 679,
+    "dynasty": "唐"
+  },
+  {
+    "name": "朔州、黑山之战",
+    "year": 679,
+    "dynasty": "唐"
+  },
+  {
+    "name": "裴行俭攻伏念之战",
+    "year": 681,
+    "dynasty": "唐"
+  },
+  {
+    "name": "云州之战",
+    "year": 682,
+    "dynasty": "唐"
+  },
+  {
+    "name": "骨笃禄攻唐之战",
+    "year": 682,
+    "dynasty": "唐"
+  },
+  {
+    "name": "武则天平李敬业之战",
+    "year": 684,
+    "dynasty": "唐"
+  },
+  {
+    "name": "两井之战",
+    "year": 686,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐诸王反武后之战",
+    "year": 688,
+    "dynasty": "唐"
+  },
+  {
+    "name": "安西之战",
+    "year": 692,
+    "dynasty": "唐"
+  },
+  {
+    "name": "素罗汗山之战",
+    "year": 696,
+    "dynasty": "唐"
+  },
+  {
+    "name": "黄獐谷之战",
+    "year": 696,
+    "dynasty": "唐"
+  },
+  {
+    "name": "东硖石谷之战",
+    "year": 697,
+    "dynasty": "唐"
+  },
+  {
+    "name": "天门岭之战",
+    "year": 698,
+    "dynasty": "唐"
+  },
+  {
+    "name": "神龙政变",
+    "year": 705,
+    "dynasty": "唐"
+  },
+  {
+    "name": "冷陉之战",
+    "year": 712,
+    "dynasty": "唐"
+  },
+  {
+    "name": "滦水谷之战",
+    "year": 714,
+    "dynasty": "唐"
+  },
+  {
+    "name": "武街之战",
+    "year": 714,
+    "dynasty": "唐"
+  },
+  {
+    "name": "青海之战",
+    "year": 727,
+    "dynasty": "唐"
+  },
+  {
+    "name": "瓜州之战",
+    "year": 727,
+    "dynasty": "唐"
+  },
+  {
+    "name": "石堡城之战",
+    "year": 729,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐攻契丹之战",
+    "year": 730,
+    "dynasty": "唐"
+  },
+  {
+    "name": "积石军之战",
+    "year": 747,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐击小勃律之战",
+    "year": 747,
+    "dynasty": "唐"
+  },
+  {
+    "name": "青海之战",
+    "year": 748,
+    "dynasty": "唐"
+  },
+  {
+    "name": "石堡城之战",
+    "year": 749,
+    "dynasty": "唐"
+  },
+  {
+    "name": "怛罗斯战役",
+    "year": 751,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐与南诏战争",
+    "year": 750,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐平安史之乱",
+    "year": 755,
+    "dynasty": "唐"
+  },
+  {
+    "name": "范阳起兵",
+    "year": 755,
+    "dynasty": "唐"
+  },
+  {
+    "name": "荥阳之战",
+    "year": 755,
+    "dynasty": "唐"
+  },
+  {
+    "name": "安军攻占东都之战",
+    "year": 755,
+    "dynasty": "唐"
+  },
+  {
+    "name": "郭子仪击叛军之战",
+    "year": 755,
+    "dynasty": "唐"
+  },
+  {
+    "name": "常山之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "雍丘之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "九门之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "嘉山之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "南阳之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "灵宝之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "陈涛斜之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "宁陵之战",
+    "year": 756,
+    "dynasty": "唐"
+  },
+  {
+    "name": "春太原之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "睢阳之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐收复两京之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "河东之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐收复长安之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐收复洛阳之战",
+    "year": 757,
+    "dynasty": "唐"
+  },
+  {
+    "name": "邺城之战",
+    "year": 758,
+    "dynasty": "唐"
+  },
+  {
+    "name": "河阳之战",
+    "year": 759,
+    "dynasty": "唐"
+  },
+  {
+    "name": "邙山之战",
+    "year": 761,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐再夺东京之战",
+    "year": 762,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭史朝义之战",
+    "year": 762,
+    "dynasty": "唐"
+  },
+  {
+    "name": "邠州之战",
+    "year": 764,
+    "dynasty": "唐"
+  },
+  {
+    "name": "奉天、灵台之战",
+    "year": 765,
+    "dynasty": "唐"
+  },
+  {
+    "name": "灵、宜、盐、百之战",
+    "year": 773,
+    "dynasty": "唐"
+  },
+  {
+    "name": "剑南、西川之战",
+    "year": 779,
+    "dynasty": "唐"
+  },
+  {
+    "name": "临洺之战",
+    "year": 781,
+    "dynasty": "唐"
+  },
+  {
+    "name": "洹水之战",
+    "year": 782,
+    "dynasty": "唐"
+  },
+  {
+    "name": "魏州之战",
+    "year": 782,
+    "dynasty": "唐"
+  },
+  {
+    "name": "泾原兵变",
+    "year": 783,
+    "dynasty": "唐"
+  },
+  {
+    "name": "奉天之战",
+    "year": 783,
+    "dynasty": "唐"
+  },
+  {
+    "name": "贝州之战",
+    "year": 784,
+    "dynasty": "唐"
+  },
+  {
+    "name": "李晟收复长安之战",
+    "year": 784,
+    "dynasty": "唐"
+  },
+  {
+    "name": "河中之战",
+    "year": 784,
+    "dynasty": "唐"
+  },
+  {
+    "name": "汧城之战",
+    "year": 786,
+    "dynasty": "唐"
+  },
+  {
+    "name": "神川之战",
+    "year": 794,
+    "dynasty": "唐"
+  },
+  {
+    "name": "维州之战",
+    "year": 801,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐破吐蕃维州之战",
+    "year": 802,
+    "dynasty": "唐"
+  },
+  {
+    "name": "蔡州之战",
+    "year": 817,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐平刘稹泽潞之战",
+    "year": 843,
+    "dynasty": "唐"
+  },
+  {
+    "name": "交趾之战",
+    "year": 859,
+    "dynasty": "唐"
+  },
+  {
+    "name": "庞勋起义",
+    "year": 868,
+    "dynasty": "唐"
+  },
+  {
+    "name": "成都之战",
+    "year": 869,
+    "dynasty": "唐"
+  },
+  {
+    "name": "王仙芝起义",
+    "year": 875,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐末农民战争",
+    "year": 875,
+    "dynasty": "唐"
+  },
+  {
+    "name": "黄巢转战中原之战",
+    "year": 877,
+    "dynasty": "唐"
+  },
+  {
+    "name": "黄巢南下福州之战",
+    "year": 878,
+    "dynasty": "唐"
+  },
+  {
+    "name": "信州之战",
+    "year": 880,
+    "dynasty": "唐"
+  },
+  {
+    "name": "黄巢攻东都之战",
+    "year": 880,
+    "dynasty": "唐"
+  },
+  {
+    "name": "潼关之战",
+    "year": 880,
+    "dynasty": "唐"
+  },
+  {
+    "name": "长安之战",
+    "year": 880,
+    "dynasty": "唐"
+  },
+  {
+    "name": "黄巢攻长安之战",
+    "year": 881,
+    "dynasty": "唐"
+  },
+  {
+    "name": "唐灭大齐之战",
+    "year": 884,
+    "dynasty": "唐"
+  },
+  {
+    "name": "河东之战",
+    "year": 902,
+    "dynasty": "唐"
+  },
+  {
+    "name": "潞州之战",
+    "year": 907,
+    "dynasty": "唐"
+  },
+  {
+    "name": "象牙潭之战",
+    "year": 909,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "柏乡之战",
+    "year": 910,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "魏州之战",
+    "year": 915,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "幽州之战",
+    "year": 917,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "胡柳陂之战",
+    "year": 918,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "后唐灭后梁之战",
+    "year": 923,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "杨刘之战",
+    "year": 923,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "后唐灭前蜀之战",
+    "year": 925,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "契丹灭渤海国之战",
+    "year": 926,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "定州之战",
+    "year": 928,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "后晋灭后唐之战",
+    "year": 936,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "白藤江之战",
+    "year": 938,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "契丹灭后晋之战",
+    "year": 943,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "阳城、滹沱之战",
+    "year": 945,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "河中之战",
+    "year": 948,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "郭威灭后汉之战",
+    "year": 950,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "高平之战",
+    "year": 954,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "秦凤之战",
+    "year": 955,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "寿州之战",
+    "year": 955,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "紫金山之战",
+    "year": 956,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "河北之战",
+    "year": 958,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "后周攻南唐之战",
+    "year": 955,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "六合之战",
+    "year": 956,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "淮南之战",
+    "year": 957,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "陈桥兵变",
+    "year": 960,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "北宋统一战争",
+    "year": 962,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "荆湖之战",
+    "year": 963,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "宋灭后蜀之战",
+    "year": 964,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "剑门之战",
+    "year": 964,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "夔州之战",
+    "year": 964,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "宋灭南汉之战",
+    "year": 970,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "韶州之战",
+    "year": 970,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "—975年：宋灭南唐之战",
+    "year": 974,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "采石之战",
+    "year": 974,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "秦淮河之战",
+    "year": 975,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "皖口之战",
+    "year": 975,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "宋灭北汉之战",
+    "year": 979,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "宋辽战争",
+    "year": 979,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "高梁河之战",
+    "year": 979,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "满城之战",
+    "year": 979,
+    "dynasty": "五代十国"
+  },
+  {
+    "name": "雁门之战",
+    "year": 980,
+    "dynasty": "宋"
+  },
+  {
+    "name": "瓦桥关之战",
+    "year": 980,
+    "dynasty": "宋"
+  },
+  {
+    "name": "白藤江之战",
+    "year": 981,
+    "dynasty": "宋"
+  },
+  {
+    "name": "北宋与西夏的战争",
+    "year": 982,
+    "dynasty": "宋"
+  },
+  {
+    "name": "岐沟关之战",
+    "year": 986,
+    "dynasty": "宋"
+  },
+  {
+    "name": "君子馆之战",
+    "year": 986,
+    "dynasty": "宋"
+  },
+  {
+    "name": "代州之战",
+    "year": 986,
+    "dynasty": "宋"
+  },
+  {
+    "name": "徐河之战",
+    "year": 989,
+    "dynasty": "宋"
+  },
+  {
+    "name": "王小波、李顺起义",
+    "year": 993,
+    "dynasty": "宋"
+  },
+  {
+    "name": "河北之战",
+    "year": 999,
+    "dynasty": "宋"
+  },
+  {
+    "name": "澶州之战",
+    "year": 1004,
+    "dynasty": "宋"
+  },
+  {
+    "name": "高丽契丹战争(1、2、3)",
+    "year": 993,
+    "dynasty": "宋"
+  },
+  {
+    "name": "龟州大捷",
+    "year": 1019,
+    "dynasty": "宋"
+  },
+  {
+    "name": "鄯州之战",
+    "year": 1035,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋夏战争",
+    "year": 1038,
+    "dynasty": "宋"
+  },
+  {
+    "name": "延州之战",
+    "year": 1040,
+    "dynasty": "宋"
+  },
+  {
+    "name": "好水川之战",
+    "year": 1041,
+    "dynasty": "宋"
+  },
+  {
+    "name": "定川寨之战",
+    "year": 1042,
+    "dynasty": "宋"
+  },
+  {
+    "name": "河南、凉州之战",
+    "year": 1049,
+    "dynasty": "宋"
+  },
+  {
+    "name": "昆仑关之战",
+    "year": 1053,
+    "dynasty": "宋"
+  },
+  {
+    "name": "断坞道之战",
+    "year": 1057,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋收复河、岷等州之战",
+    "year": 1073,
+    "dynasty": "宋"
+  },
+  {
+    "name": "定羌城之战",
+    "year": 1074,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋越熙宁战争",
+    "year": 1075,
+    "dynasty": "宋"
+  },
+  {
+    "name": "灵州之战",
+    "year": 1081,
+    "dynasty": "宋"
+  },
+  {
+    "name": "永乐城之战",
+    "year": 1082,
+    "dynasty": "宋"
+  },
+  {
+    "name": "西夏、吐蕃攻宋之战",
+    "year": 1087,
+    "dynasty": "宋"
+  },
+  {
+    "name": "金与辽的战争",
+    "year": 1114,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宁江州之战",
+    "year": 1114,
+    "dynasty": "宋"
+  },
+  {
+    "name": "出河店之战",
+    "year": 1114,
+    "dynasty": "宋"
+  },
+  {
+    "name": "达鲁古城之战",
+    "year": 1115,
+    "dynasty": "宋"
+  },
+  {
+    "name": "护步达冈之战",
+    "year": 1115,
+    "dynasty": "宋"
+  },
+  {
+    "name": "晏州之战",
+    "year": 1115,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋江起义",
+    "year": 1119,
+    "dynasty": "宋"
+  },
+  {
+    "name": "方腊起义",
+    "year": 1120,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋金灭辽",
+    "year": 1120,
+    "dynasty": "宋"
+  },
+  {
+    "name": "帮源洞之战",
+    "year": 1121,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋金战争",
+    "year": 1125,
+    "dynasty": "宋"
+  },
+  {
+    "name": "太原之战",
+    "year": 1125,
+    "dynasty": "宋"
+  },
+  {
+    "name": "金灭北宋东京之战",
+    "year": 1125,
+    "dynasty": "宋"
+  },
+  {
+    "name": "东京保卫战",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "邵兴抗金起义",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "八字军抗金起义",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "红巾军抗金起义",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "东京之战",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋平丁进之战",
+    "year": 1127,
+    "dynasty": "宋"
+  },
+  {
+    "name": "苗刘兵变",
+    "year": 1129,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋攻李成之战",
+    "year": 1129,
+    "dynasty": "宋"
+  },
+  {
+    "name": "川陕之战",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "钟相、杨幺起义",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "黄天荡之战",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "建州之战",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "下沚江之战",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "富平之战",
+    "year": 1130,
+    "dynasty": "宋"
+  },
+  {
+    "name": "缩头湖之战",
+    "year": 1131,
+    "dynasty": "宋"
+  },
+  {
+    "name": "和尚原之战",
+    "year": 1131,
+    "dynasty": "宋"
+  },
+  {
+    "name": "德安之战",
+    "year": 1132,
+    "dynasty": "宋"
+  },
+  {
+    "name": "饶凤关之战",
+    "year": 1133,
+    "dynasty": "宋"
+  },
+  {
+    "name": "固石洞之战",
+    "year": 1133,
+    "dynasty": "宋"
+  },
+  {
+    "name": "阳武口之战",
+    "year": 1133,
+    "dynasty": "宋"
+  },
+  {
+    "name": "仙人关之战",
+    "year": 1134,
+    "dynasty": "宋"
+  },
+  {
+    "name": "社木寨之战",
+    "year": 1134,
+    "dynasty": "宋"
+  },
+  {
+    "name": "岳飞收复襄阳六郡之战",
+    "year": 1134,
+    "dynasty": "宋"
+  },
+  {
+    "name": "大仪之战",
+    "year": 1134,
+    "dynasty": "宋"
+  },
+  {
+    "name": "洞庭湖之战",
+    "year": 1135,
+    "dynasty": "宋"
+  },
+  {
+    "name": "顺昌之战",
+    "year": 1140,
+    "dynasty": "宋"
+  },
+  {
+    "name": "郾城之战",
+    "year": 1140,
+    "dynasty": "宋"
+  },
+  {
+    "name": "柘皋之战",
+    "year": 1141,
+    "dynasty": "宋"
+  },
+  {
+    "name": "剡家湾之战",
+    "year": 1141,
+    "dynasty": "宋"
+  },
+  {
+    "name": "魏胜抗金起义",
+    "year": 1161,
+    "dynasty": "宋"
+  },
+  {
+    "name": "皂角林之战",
+    "year": 1161,
+    "dynasty": "宋"
+  },
+  {
+    "name": "德顺军之战",
+    "year": 1161,
+    "dynasty": "宋"
+  },
+  {
+    "name": "陈家岛海战",
+    "year": 1161,
+    "dynasty": "宋"
+  },
+  {
+    "name": "采石之战",
+    "year": 1161,
+    "dynasty": "宋"
+  },
+  {
+    "name": "海州之战",
+    "year": 1162,
+    "dynasty": "宋"
+  },
+  {
+    "name": "成吉思汗统一蒙古之战",
+    "year": 1189,
+    "dynasty": "宋"
+  },
+  {
+    "name": "十三翼之战",
+    "year": 1189,
+    "dynasty": "宋"
+  },
+  {
+    "name": "阔亦田之战",
+    "year": 1202,
+    "dynasty": "宋"
+  },
+  {
+    "name": "合兰真沙陀-折折运都山之战",
+    "year": 1203,
+    "dynasty": "宋"
+  },
+  {
+    "name": "纳忽昏山-不黑都儿麻之战",
+    "year": 1204,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙元统一中国",
+    "year": 1205,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古与西夏战争",
+    "year": 1205,
+    "dynasty": "宋"
+  },
+  {
+    "name": "韩侂胄攻金之战",
+    "year": 1206,
+    "dynasty": "宋"
+  },
+  {
+    "name": "仆散揆攻宋之战",
+    "year": 1206,
+    "dynasty": "宋"
+  },
+  {
+    "name": "六合之战",
+    "year": 1206,
+    "dynasty": "宋"
+  },
+  {
+    "name": "秦州之战",
+    "year": 1207,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙金战争",
+    "year": 1211,
+    "dynasty": "宋"
+  },
+  {
+    "name": "边堡寨之战",
+    "year": 1211,
+    "dynasty": "宋"
+  },
+  {
+    "name": "野狐岭会战",
+    "year": 1211,
+    "dynasty": "宋"
+  },
+  {
+    "name": "红袄巾抗金起义",
+    "year": 1211,
+    "dynasty": "宋"
+  },
+  {
+    "name": "成吉思汗三路攻金之战",
+    "year": 1213,
+    "dynasty": "宋"
+  },
+  {
+    "name": "中都之战",
+    "year": 1214,
+    "dynasty": "宋"
+  },
+  {
+    "name": "北京之战",
+    "year": 1215,
+    "dynasty": "宋"
+  },
+  {
+    "name": "潼关、南京之战",
+    "year": 1216,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古攻西辽之战",
+    "year": 1217,
+    "dynasty": "宋"
+  },
+  {
+    "name": "襄阳之战",
+    "year": 1217,
+    "dynasty": "宋"
+  },
+  {
+    "name": "枣阳之战",
+    "year": 1217,
+    "dynasty": "宋"
+  },
+  {
+    "name": "金军三道攻宋之战",
+    "year": 1219,
+    "dynasty": "宋"
+  },
+  {
+    "name": "枣阳之战",
+    "year": 1219,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古第一次西征",
+    "year": 1219,
+    "dynasty": "宋"
+  },
+  {
+    "name": "河中之战",
+    "year": 1219,
+    "dynasty": "宋"
+  },
+  {
+    "name": "不花剌之战",
+    "year": 1220,
+    "dynasty": "宋"
+  },
+  {
+    "name": "撒麻儿罕之战",
+    "year": 1220,
+    "dynasty": "宋"
+  },
+  {
+    "name": "玉龙杰赤之战",
+    "year": 1220,
+    "dynasty": "宋"
+  },
+  {
+    "name": "仆散安贞攻宋之战",
+    "year": 1221,
+    "dynasty": "宋"
+  },
+  {
+    "name": "内沙布儿之战",
+    "year": 1221,
+    "dynasty": "宋"
+  },
+  {
+    "name": "范延堡之战",
+    "year": 1221,
+    "dynasty": "宋"
+  },
+  {
+    "name": "申河之战",
+    "year": 1221,
+    "dynasty": "宋"
+  },
+  {
+    "name": "塔里寒之战",
+    "year": 1221,
+    "dynasty": "宋"
+  },
+  {
+    "name": "迦勒迦河之战",
+    "year": 1223,
+    "dynasty": "宋"
+  },
+  {
+    "name": "高丽蒙古战争",
+    "year": 1231,
+    "dynasty": "宋"
+  },
+  {
+    "name": "三峰山之战",
+    "year": 1232,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蔡州之战",
+    "year": 1233,
+    "dynasty": "宋"
+  },
+  {
+    "name": "端平入洛",
+    "year": 1234,
+    "dynasty": "宋"
+  },
+  {
+    "name": "宋元战争",
+    "year": 1234,
+    "dynasty": "宋"
+  },
+  {
+    "name": "窝阔台攻宋之战",
+    "year": 1235,
+    "dynasty": "宋"
+  },
+  {
+    "name": "沔州之战",
+    "year": 1235,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古第二次西征",
+    "year": 1236,
+    "dynasty": "宋"
+  },
+  {
+    "name": "真州之战",
+    "year": 1236,
+    "dynasty": "宋"
+  },
+  {
+    "name": "阳平关之战",
+    "year": 1236,
+    "dynasty": "宋"
+  },
+  {
+    "name": "江陵之战",
+    "year": 1236,
+    "dynasty": "宋"
+  },
+  {
+    "name": "黄州之战",
+    "year": 1237,
+    "dynasty": "宋"
+  },
+  {
+    "name": "庐州之战",
+    "year": 1238,
+    "dynasty": "宋"
+  },
+  {
+    "name": "京襄之战",
+    "year": 1238,
+    "dynasty": "宋"
+  },
+  {
+    "name": "大垭寨之战",
+    "year": 1239,
+    "dynasty": "宋"
+  },
+  {
+    "name": "乞瓦之战",
+    "year": 1240,
+    "dynasty": "宋"
+  },
+  {
+    "name": "赛约河之战",
+    "year": 1241,
+    "dynasty": "宋"
+  },
+  {
+    "name": "余玠防蜀之战",
+    "year": 1243,
+    "dynasty": "宋"
+  },
+  {
+    "name": "寿春之战",
+    "year": 1244,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古第三次西征",
+    "year": 1256,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古灭大理之战",
+    "year": 1253,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙哥攻宋之战",
+    "year": 1253,
+    "dynasty": "宋"
+  },
+  {
+    "name": "押赤城之战",
+    "year": 1254,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古攻四川之战",
+    "year": 1256,
+    "dynasty": "宋"
+  },
+  {
+    "name": "麦门底斯之战",
+    "year": 1256,
+    "dynasty": "宋"
+  },
+  {
+    "name": "纽磷攻四川之战",
+    "year": 1257,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古攻安南之战",
+    "year": 1257,
+    "dynasty": "宋"
+  },
+  {
+    "name": "底格里斯河之战",
+    "year": 1257,
+    "dynasty": "宋"
+  },
+  {
+    "name": "巴格达之战",
+    "year": 1257,
+    "dynasty": "宋"
+  },
+  {
+    "name": "鄂州之战",
+    "year": 1258,
+    "dynasty": "宋"
+  },
+  {
+    "name": "钓鱼城之战",
+    "year": 1258,
+    "dynasty": "宋"
+  },
+  {
+    "name": "额弗拉特河之战",
+    "year": 1259,
+    "dynasty": "宋"
+  },
+  {
+    "name": "阿勒坡城之战",
+    "year": 1259,
+    "dynasty": "宋"
+  },
+  {
+    "name": "大马士革之战",
+    "year": 1260,
+    "dynasty": "宋"
+  },
+  {
+    "name": "忽必烈与阿里不哥之战",
+    "year": 1260,
+    "dynasty": "宋"
+  },
+  {
+    "name": "蒙古平李璮之战",
+    "year": 1262,
+    "dynasty": "宋"
+  },
+  {
+    "name": "虎啸山之战",
+    "year": 1264,
+    "dynasty": "宋"
+  },
+  {
+    "name": "襄樊之战",
+    "year": 1267,
+    "dynasty": "宋"
+  },
+  {
+    "name": "淮西之战",
+    "year": 1273,
+    "dynasty": "宋"
+  },
+  {
+    "name": "郢州之战",
+    "year": 1274,
+    "dynasty": "宋"
+  },
+  {
+    "name": "沙阳、新城之战",
+    "year": 1274,
+    "dynasty": "宋"
+  },
+  {
+    "name": "鄂州之战",
+    "year": 1274,
+    "dynasty": "宋"
+  },
+  {
+    "name": "嘉定之战",
+    "year": 1274,
+    "dynasty": "宋"
+  },
+  {
+    "name": "丁家洲之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "岳州之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "焦山之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "临安之战",
+    "year": 1276,
+    "dynasty": "宋"
+  },
+  {
+    "name": "常州之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "重庆之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "扬州之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "潭州之战",
+    "year": 1275,
+    "dynasty": "宋"
+  },
+  {
+    "name": "泸州之战",
+    "year": 1276,
+    "dynasty": "宋"
+  },
+  {
+    "name": "静江之战",
+    "year": 1276,
+    "dynasty": "宋"
+  },
+  {
+    "name": "文天祥反攻江西之战",
+    "year": 1276,
+    "dynasty": "宋"
+  },
+  {
+    "name": "芒市河之战",
+    "year": 1277,
+    "dynasty": "元"
+  },
+  {
+    "name": "厓山之战",
+    "year": 1279,
+    "dynasty": "元"
+  },
+  {
+    "name": "元日战争",
+    "year": 1274,
+    "dynasty": "宋"
+  },
+  {
+    "name": "元缅战争",
+    "year": 1277,
+    "dynasty": "元"
+  },
+  {
+    "name": "元攻占城之战",
+    "year": 1282,
+    "dynasty": "元"
+  },
+  {
+    "name": "第二次蒙越战争",
+    "year": 1284,
+    "dynasty": "元"
+  },
+  {
+    "name": "第三次蒙越战争",
+    "year": 1287,
+    "dynasty": "元"
+  },
+  {
+    "name": "白藤江之战",
+    "year": 1288,
+    "dynasty": "元"
+  },
+  {
+    "name": "乃颜之乱",
+    "year": 1287,
+    "dynasty": "元"
+  },
+  {
+    "name": "海都之乱",
+    "year": 1288,
+    "dynasty": "元"
+  },
+  {
+    "name": "元朝和爪哇的战争",
+    "year": 1292,
+    "dynasty": "元"
+  },
+  {
+    "name": "元末民变",
+    "year": 1351,
+    "dynasty": "元"
+  },
+  {
+    "name": "亦思巴奚兵乱",
+    "year": 1357,
+    "dynasty": "元"
+  },
+  {
+    "name": "红巾军侵略高丽",
+    "year": 1359,
+    "dynasty": "元"
+  },
+  {
+    "name": "鄱阳湖之战",
+    "year": 1363,
+    "dynasty": "元"
+  },
+  {
+    "name": "明灭元之战",
+    "year": 1367,
+    "dynasty": "元"
+  },
+  {
+    "name": "明太祖第一次北征",
+    "year": 1370,
+    "dynasty": "明"
+  },
+  {
+    "name": "也顿村之战",
+    "year": 1370,
+    "dynasty": "明"
+  },
+  {
+    "name": "明灭夏之战",
+    "year": 1371,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第二次北伐",
+    "year": 1372,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第三次北伐",
+    "year": 1380,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第四次北伐",
+    "year": 1380,
+    "dynasty": "明"
+  },
+  {
+    "name": "明平云南之战",
+    "year": 1381,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第五次北伐",
+    "year": 1387,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第六次北伐",
+    "year": 1387,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第七次北伐",
+    "year": 1390,
+    "dynasty": "明"
+  },
+  {
+    "name": "明太祖第八次北伐",
+    "year": 1396,
+    "dynasty": "明"
+  },
+  {
+    "name": "明入越",
+    "year": 1406,
+    "dynasty": "明"
+  },
+  {
+    "name": "胪朐河之战",
+    "year": 1409,
+    "dynasty": "明"
+  },
+  {
+    "name": "明成祖第一次亲征漠北之战",
+    "year": 1410,
+    "dynasty": "明"
+  },
+  {
+    "name": "明-锡兰山国战争",
+    "year": 1410,
+    "dynasty": "明"
+  },
+  {
+    "name": "明成祖第二次亲征漠北之战",
+    "year": 1414,
+    "dynasty": "明"
+  },
+  {
+    "name": "蓝山起义",
+    "year": 1418,
+    "dynasty": "明"
+  },
+  {
+    "name": "明成祖第三次亲征漠北之战",
+    "year": 1422,
+    "dynasty": "明"
+  },
+  {
+    "name": "明成祖第四次亲征漠北之战",
+    "year": 1423,
+    "dynasty": "明"
+  },
+  {
+    "name": "明成祖第五次亲征漠北之战",
+    "year": 1424,
+    "dynasty": "明"
+  },
+  {
+    "name": "高煦之乱",
+    "year": 1426,
+    "dynasty": "明"
+  },
+  {
+    "name": "麓川之役",
+    "year": 1436,
+    "dynasty": "明"
+  },
+  {
+    "name": "土木之变",
+    "year": 1449,
+    "dynasty": "明"
+  },
+  {
+    "name": "京师保卫战",
+    "year": 1449,
+    "dynasty": "明"
+  },
+  {
+    "name": "曹石之变",
+    "year": 1470,
+    "dynasty": "明"
+  },
+  {
+    "name": "红盐池之战",
+    "year": 1473,
+    "dynasty": "明"
+  },
+  {
+    "name": "安化王之乱",
+    "year": 1510,
+    "dynasty": "明"
+  },
+  {
+    "name": "刘六刘七起义",
+    "year": 1510,
+    "dynasty": "明"
+  },
+  {
+    "name": "应州大捷",
+    "year": 1518,
+    "dynasty": "明"
+  },
+  {
+    "name": "宁王之乱",
+    "year": 1519,
+    "dynasty": "明"
+  },
+  {
+    "name": "屯门海战",
+    "year": 1519,
+    "dynasty": "明"
+  },
+  {
+    "name": "西草湾之战",
+    "year": 1522,
+    "dynasty": "明"
+  },
+  {
+    "name": "宁波之乱",
+    "year": 1523,
+    "dynasty": "明"
+  },
+  {
+    "name": "岑猛之乱",
+    "year": 1526,
+    "dynasty": "明"
+  },
+  {
+    "name": "西海之战",
+    "year": 1533,
+    "dynasty": "明"
+  },
+  {
+    "name": "黑河墩之战",
+    "year": 1536,
+    "dynasty": "明"
+  },
+  {
+    "name": "倭寇之乱",
+    "year": 1547,
+    "dynasty": "明"
+  },
+  {
+    "name": "庚戌之变",
+    "year": 1550,
+    "dynasty": "明"
+  },
+  {
+    "name": "万全右卫之战",
+    "year": 1566,
+    "dynasty": "明"
+  },
+  {
+    "name": "明缅战争",
+    "year": 1581,
+    "dynasty": "明"
+  },
+  {
+    "name": "镇北关之战",
+    "year": 1583,
+    "dynasty": "明"
+  },
+  {
+    "name": "兆佳城之战",
+    "year": 1584,
+    "dynasty": "明"
+  },
+  {
+    "name": "浑河之战",
+    "year": 1585,
+    "dynasty": "明"
+  },
+  {
+    "name": "播州之役",
+    "year": 1590,
+    "dynasty": "明"
+  },
+  {
+    "name": "宁夏之役",
+    "year": 1592,
+    "dynasty": "明"
+  },
+  {
+    "name": "万历朝鲜战争",
+    "year": 1592,
+    "dynasty": "明"
+  },
+  {
+    "name": "平壤之围",
+    "year": 1593,
+    "dynasty": "明"
+  },
+  {
+    "name": "露梁海战",
+    "year": 1598,
+    "dynasty": "明"
+  },
+  {
+    "name": "古勒山之战",
+    "year": 1593,
+    "dynasty": "明"
+  },
+  {
+    "name": "明与后金战争",
+    "year": 1618,
+    "dynasty": "明"
+  },
+  {
+    "name": "抚清之战",
+    "year": 1618,
+    "dynasty": "明"
+  },
+  {
+    "name": "萨尔浒之战",
+    "year": 1619,
+    "dynasty": "明"
+  },
+  {
+    "name": "叶赫城之战",
+    "year": 1619,
+    "dynasty": "明"
+  },
+  {
+    "name": "宁远之战",
+    "year": 1626,
+    "dynasty": "明"
+  },
+  {
+    "name": "觉华岛之战",
+    "year": 1626,
+    "dynasty": "明"
+  },
+  {
+    "name": "宁锦之战",
+    "year": 1627,
+    "dynasty": "明"
+  },
+  {
+    "name": "清兵入塞",
+    "year": 1629,
+    "dynasty": "明"
+  },
+  {
+    "name": "吴桥兵变",
+    "year": 1631,
+    "dynasty": "明"
+  },
+  {
+    "name": "松锦之战",
+    "year": 1639,
+    "dynasty": "明"
+  },
+  {
+    "name": "奢安之乱",
+    "year": 1621,
+    "dynasty": "明"
+  },
+  {
+    "name": "丁卯战争",
+    "year": 1627,
+    "dynasty": "明"
+  },
+  {
+    "name": "明末农民起义",
+    "year": 1628,
+    "dynasty": "明"
+  },
+  {
+    "name": "玛瑙山之战",
+    "year": 1640,
+    "dynasty": "明"
+  },
+  {
+    "name": "南阳之战",
+    "year": 1641,
+    "dynasty": "明"
+  },
+  {
+    "name": "开封之战",
+    "year": 1641,
+    "dynasty": "明"
+  },
+  {
+    "name": "朱仙镇之战",
+    "year": 1642,
+    "dynasty": "明"
+  },
+  {
+    "name": "北京之战",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "崇祯明荷海战",
+    "year": 1633,
+    "dynasty": "明"
+  },
+  {
+    "name": "丙子战争",
+    "year": 1636,
+    "dynasty": "明"
+  },
+  {
+    "name": "入关战争",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "山海关之战",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "清灭大顺之战",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "清灭南明弘光政权之战",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "潼关之战",
+    "year": 1644,
+    "dynasty": "明"
+  },
+  {
+    "name": "清灭大西政权之战",
+    "year": 1645,
+    "dynasty": "清"
+  },
+  {
+    "name": "扬州之战",
+    "year": 1645,
+    "dynasty": "清"
+  },
+  {
+    "name": "清灭南明鲁王政权之战",
+    "year": 1645,
+    "dynasty": "清"
+  },
+  {
+    "name": "清灭南明隆武政权之战",
+    "year": 1645,
+    "dynasty": "清"
+  },
+  {
+    "name": "豪格平川陕之战",
+    "year": 1646,
+    "dynasty": "清"
+  },
+  {
+    "name": "清灭南明绍武、永历政权之战",
+    "year": 1646,
+    "dynasty": "清"
+  },
+  {
+    "name": "博洛平福建之战",
+    "year": 1646,
+    "dynasty": "清"
+  },
+  {
+    "name": "郑成功抗清",
+    "year": 1646,
+    "dynasty": "清"
+  },
+  {
+    "name": "孔有德平湖南之战",
+    "year": 1647,
+    "dynasty": "清"
+  },
+  {
+    "name": "桂林之战",
+    "year": 1652,
+    "dynasty": "清"
+  },
+  {
+    "name": "衡州之战",
+    "year": 1652,
+    "dynasty": "清"
+  },
+  {
+    "name": "清平贵州之战",
+    "year": 1657,
+    "dynasty": "清"
+  },
+  {
+    "name": "清平云南之战",
+    "year": 1658,
+    "dynasty": "清"
+  },
+  {
+    "name": "雅克萨战役",
+    "year": 1652,
+    "dynasty": "清"
+  },
+  {
+    "name": "郑成功攻台之役",
+    "year": 1661,
+    "dynasty": "清"
+  },
+  {
+    "name": "三藩之乱",
+    "year": 1673,
+    "dynasty": "清"
+  },
+  {
+    "name": "澎湖海战",
+    "year": 1683,
+    "dynasty": "清"
+  },
+  {
+    "name": "平定准噶尔",
+    "year": 1688,
+    "dynasty": "清"
+  },
+  {
+    "name": "乌兰布通之战",
+    "year": 1690,
+    "dynasty": "清"
+  },
+  {
+    "name": "昭莫多之战",
+    "year": 1696,
+    "dynasty": "清"
+  },
+  {
+    "name": "准噶尔入藏",
+    "year": 1716,
+    "dynasty": "清"
+  },
+  {
+    "name": "和通泊之战",
+    "year": 1731,
+    "dynasty": "清"
+  },
+  {
+    "name": "清灭准噶尔之战",
+    "year": 1755,
+    "dynasty": "清"
+  },
+  {
+    "name": "阿睦尔撒纳之乱",
+    "year": 1755,
+    "dynasty": "清"
+  },
+  {
+    "name": "清平青海之战",
+    "year": 1713,
+    "dynasty": "清"
+  },
+  {
+    "name": "阿尔布巴之乱",
+    "year": 1727,
+    "dynasty": "清"
+  },
+  {
+    "name": "古州苗民起义",
+    "year": 1735,
+    "dynasty": "清"
+  },
+  {
+    "name": "珠尔默特那木札勒之乱",
+    "year": 1749,
+    "dynasty": "清"
+  },
+  {
+    "name": "大小金川之役",
+    "year": 1747,
+    "dynasty": "清"
+  },
+  {
+    "name": "大金川之战",
+    "year": 1747,
+    "dynasty": "清"
+  },
+  {
+    "name": "第二次金川之战",
+    "year": 1771,
+    "dynasty": "清"
+  },
+  {
+    "name": "大小和卓之乱",
+    "year": 1757,
+    "dynasty": "清"
+  },
+  {
+    "name": "清缅战争",
+    "year": 1762,
+    "dynasty": "清"
+  },
+  {
+    "name": "苏四十三起义",
+    "year": 1781,
+    "dynasty": "清"
+  },
+  {
+    "name": "林爽文事件",
+    "year": 1786,
+    "dynasty": "清"
+  },
+  {
+    "name": "平定廓尔喀",
+    "year": 1788,
+    "dynasty": "清"
+  },
+  {
+    "name": "第一次廓尔喀之役",
+    "year": 1788,
+    "dynasty": "清"
+  },
+  {
+    "name": "第二次廓尔喀之役",
+    "year": 1791,
+    "dynasty": "清"
+  },
+  {
+    "name": "清越战争",
+    "year": 1788,
+    "dynasty": "清"
+  },
+  {
+    "name": "蔡牵之乱",
+    "year": 1794,
+    "dynasty": "清"
+  },
+  {
+    "name": "川楚教乱",
+    "year": 1795,
+    "dynasty": "清"
+  },
+  {
+    "name": "癸酉之变",
+    "year": 1813,
+    "dynasty": "清"
+  },
+  {
+    "name": "张格尔之乱",
+    "year": 1820,
+    "dynasty": "清"
+  },
+  {
+    "name": "穿鼻之战",
+    "year": 1839,
+    "dynasty": "清"
+  },
+  {
+    "name": "第一次鸦片战争",
+    "year": 1840,
+    "dynasty": "清"
+  },
+  {
+    "name": "定海之战",
+    "year": 1840,
+    "dynasty": "清"
+  },
+  {
+    "name": "虎门之战",
+    "year": 1841,
+    "dynasty": "清"
+  },
+  {
+    "name": "三元里抗英事件",
+    "year": 1841,
+    "dynasty": "清"
+  },
+  {
+    "name": "吴淞之战",
+    "year": 1842,
+    "dynasty": "清"
+  },
+  {
+    "name": "镇江之战",
+    "year": 1842,
+    "dynasty": "清"
+  },
+  {
+    "name": "森巴战争",
+    "year": 1841,
+    "dynasty": "清"
+  },
+  {
+    "name": "七和卓之乱",
+    "year": 1847,
+    "dynasty": "清"
+  },
+  {
+    "name": "太平天国起义",
+    "year": 1851,
+    "dynasty": "清"
+  },
+  {
+    "name": "金田起义",
+    "year": 1851,
+    "dynasty": "清"
+  },
+  {
+    "name": "江宁之战",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "太平天国北伐",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "太平天国西征",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "天京之围",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "太平军一破江南大营",
+    "year": 1856,
+    "dynasty": "清"
+  },
+  {
+    "name": "天京事变",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "石达开远征",
+    "year": 1857,
+    "dynasty": "清"
+  },
+  {
+    "name": "太平军二破江南大营",
+    "year": 1860,
+    "dynasty": "清"
+  },
+  {
+    "name": "安庆之战（1）",
+    "year": 860,
+    "dynasty": "唐"
+  },
+  {
+    "name": "浙江之战",
+    "year": 1862,
+    "dynasty": "清"
+  },
+  {
+    "name": "天京陷落",
+    "year": 1864,
+    "dynasty": "清"
+  },
+  {
+    "name": "上海小刀会起义",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "捻军起义",
+    "year": 1853,
+    "dynasty": "清"
+  },
+  {
+    "name": "高楼寨之战",
+    "year": 1865,
+    "dynasty": "清"
+  },
+  {
+    "name": "广东洪兵起义",
+    "year": 1854,
+    "dynasty": "清"
+  },
+  {
+    "name": "廓藏战争",
+    "year": 1855,
+    "dynasty": "清"
+  },
+  {
+    "name": "云南回变",
+    "year": 1856,
+    "dynasty": "清"
+  },
+  {
+    "name": "第二次鸦片战争",
+    "year": 1856,
+    "dynasty": "清"
+  },
+  {
+    "name": "广州城战役",
+    "year": 1857,
+    "dynasty": "清"
+  },
+  {
+    "name": "第一次大沽口之战",
+    "year": 1858,
+    "dynasty": "清"
+  },
+  {
+    "name": "第二次大沽口之战",
+    "year": 1859,
+    "dynasty": "清"
+  },
+  {
+    "name": "第三次大沽口之战",
+    "year": 1860,
+    "dynasty": "清"
+  },
+  {
+    "name": "八里桥之战",
+    "year": 1860,
+    "dynasty": "清"
+  },
+  {
+    "name": "李永和、蓝朝鼎起义",
+    "year": 1859,
+    "dynasty": "清"
+  },
+  {
+    "name": "同治新疆回乱",
+    "year": 1862,
+    "dynasty": "清"
+  },
+  {
+    "name": "同治陕甘回变",
+    "year": 1862,
+    "dynasty": "清"
+  },
+  {
+    "name": "樟脑战争",
+    "year": 1868,
+    "dynasty": "清"
+  },
+  {
+    "name": "清军收复新疆之战",
+    "year": 1876,
+    "dynasty": "清"
+  },
+  {
+    "name": "中法战争",
+    "year": 1883,
+    "dynasty": "清"
+  },
+  {
+    "name": "马江海战",
+    "year": 1884,
+    "dynasty": "清"
+  },
+  {
+    "name": "西仔反",
+    "year": 1884,
+    "dynasty": "清"
+  },
+  {
+    "name": "镇海之战",
+    "year": 1885,
+    "dynasty": "清"
+  },
+  {
+    "name": "镇南关之役",
+    "year": 1885,
+    "dynasty": "清"
+  },
+  {
+    "name": "第一次英国侵藏战争",
+    "year": 1888,
+    "dynasty": "清"
+  },
+  {
+    "name": "甲午战争",
+    "year": 1894,
+    "dynasty": "清"
+  },
+  {
+    "name": "丰岛海战",
+    "year": 1894,
+    "dynasty": "清"
+  },
+  {
+    "name": "平壤之战",
+    "year": 1894,
+    "dynasty": "清"
+  },
+  {
+    "name": "黄海海战",
+    "year": 1894,
+    "dynasty": "清"
+  },
+  {
+    "name": "辽东半岛之战",
+    "year": 1894,
+    "dynasty": "清"
+  },
+  {
+    "name": "威海卫之战",
+    "year": 1895,
+    "dynasty": "清"
+  },
+  {
+    "name": "乙未战争",
+    "year": 1895,
+    "dynasty": "清"
+  },
+  {
+    "name": "1895年：回乱",
+    "year": 1895,
+    "dynasty": "清"
+  },
+  {
+    "name": "义和团运动",
+    "year": 1898,
+    "dynasty": "清"
+  },
+  {
+    "name": "八国联军侵华战争",
+    "year": 1900,
+    "dynasty": "清"
+  },
+  {
+    "name": "廊坊阻击战",
+    "year": 1900,
+    "dynasty": "清"
+  },
+  {
+    "name": "第二次英国侵藏战争",
+    "year": 1903,
+    "dynasty": "清"
+  },
+  {
+    "name": "藏族骚乱",
+    "year": 1905,
+    "dynasty": "清"
+  },
+  {
+    "name": "日俄战争",
+    "year": 1904,
+    "dynasty": "清"
+  },
+  {
+    "name": "奉天会战",
+    "year": 1905,
+    "dynasty": "清"
+  },
+  {
+    "name": "萍浏醴起义",
+    "year": 1906,
+    "dynasty": "清"
+  },
+  {
+    "name": "黄冈起义",
+    "year": 1907,
+    "dynasty": "清"
+  },
+  {
+    "name": "七女湖起义",
+    "year": 1907,
+    "dynasty": "清"
+  },
+  {
+    "name": "安庆起义",
+    "year": 1907,
+    "dynasty": "清"
+  },
+  {
+    "name": "镇南关起义",
+    "year": 1907,
+    "dynasty": "清"
+  },
+  {
+    "name": "钦廉上思起义",
+    "year": 1908,
+    "dynasty": "清"
+  },
+  {
+    "name": "河口起义",
+    "year": 1908,
+    "dynasty": "清"
+  },
+  {
+    "name": "马炮营起义",
+    "year": 1908,
+    "dynasty": "清"
+  },
+  {
+    "name": "广州新军起义",
+    "year": 1910,
+    "dynasty": "清"
+  },
+  {
+    "name": "广州起义",
+    "year": 1910,
+    "dynasty": "清"
+  },
+  {
+    "name": "黄花岗起义",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "保路运动",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "白朗起义",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "辛亥革命",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "武昌起义",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "阳夏保卫战",
+    "year": 1911,
+    "dynasty": "清"
+  },
+  {
+    "name": "南京之战",
+    "year": 1911,
+    "dynasty": "清"
+  }
+]

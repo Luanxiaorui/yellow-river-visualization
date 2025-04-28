@@ -1,0 +1,116 @@
+/* styles.css 文件 */
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#chart {
+    border: 1px solid #ccc;
+    /* 根据你的SVG大小调整 */
+    width: 1400px;
+    /* 示例尺寸 */
+    height: 800px;
+    /* 示例尺寸 */
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+    /* 防止SVG元素超出容器时出现滚动条 */
+}
+
+#chart svg {
+    display: block;
+}
+
+.river-segment {
+    fill: none;
+    stroke-width: 8px;
+    stroke-linecap: round;
+    cursor: pointer;
+}
+
+.event-node {
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.event-node:hover {
+    r: 8;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 8px;
+    font: 14px sans-serif;
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #333;
+    border-radius: 6px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+    /* 确保提示框在最上层 */
+}
+
+/* 图例样式 */
+#legend {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.legend-item {
+    display: inline-block;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 14px;
+    user-select: none;
+}
+
+.legend-swatch {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+    vertical-align: middle;
+    border: 1px solid #333;
+}
+
+.legend-item.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.legend-item:hover {
+    opacity: 0.7;
+}
+
+.event-node.hidden {
+    display: none;
+}
+
+/* 朝代名称文本样式 */
+.dynasty-label {
+    font-size: 10px;
+    /* 根据需要调整字体大小 */
+    font-weight: bold;
+    fill: black;
+    /* 字体颜色 */
+    text-anchor: middle;
+    /* 文本居中对齐 */
+    dominant-baseline: central;
+    /* 垂直居中对齐 */
+    pointer-events: none;
+    /* 文本不捕获鼠标事件，以便可以点击河流段 */
+    stroke: white;
+    /* 添加白色描边，让文本在深色背景上更清晰 */
+    stroke-width: 2px;
+    /* 描边宽度 */
+    paint-order: stroke;
+    /* 先绘制描边再绘制填充，避免填充覆盖描边 */
+}
